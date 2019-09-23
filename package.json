@@ -1,0 +1,19 @@
+{
+  "name": "glootxr-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1rium/glootxr-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1rium/glootxr-socket/issues"
+  },
+  "homepage": "https://github.com/N1rium/glootxr-socket#readme"
+}
